@@ -108,9 +108,73 @@ Báo hiệu : Sự đảo chiều của xu hướng
 
 Báo hiệu : Sự đảo chiều rất mạnh.
 
-## 3. Hỗ trợ, kháng cự
+### Mẫu nến chòm râu
 
-### 3.1. Định nghĩa
+ - Mẫu có nhiều râu nến
+ - Nên có ít nhất 3 râu nến trở lên
+ - Râu dài thể hiện tự *từ chối mạnh* của thị trường
+
+VD 1 : 
+
+![bitcoin](/img/bit-08.png)
+
+Giá đi lên => Hồi lại => Đi lên phá đỉnh cũ, tạo 1 vùng mua.
+
+Khi quay lại vùng mua cũ, tạo 5 râu nến dài. Có thể vào lệnh mua ở cây thứ 4 (vừa phá qua vùng tranh chấp)
+
+VD 2 : 
+
+![bitcoin](/img/bit-09.png)
+
+Cấu trúc bán rõ ràng, xuất hiện cụm 5 nến chòm râu, tạo thành 1 vùng bán. Có thể vào lệnh bán.
+
+VD 3 : Làm tín hiệu chốt lời.
+
+![bitcoin](/img/bit-10.png)
+
+Khi có tín hiệu bán, có thể chốt lời ở cụm nến khi có tín hiệu như trên.
+
+### Mẫu nến Engulfing Đỉnh / Đáy 2
+
+Mẫu nến engulfing ở đỉnh hoặc đáy lần thứ 2.
+
+VD 1 : 
+
+![bitcoin](/img/bit-11.png)
+
+Canh mua hoặc canh bán khi có cặp nến EG xuất hiện lần thứ 2 tại cản.
+
+Có thể vào lệnh ngay khi đóng cặp nến, SL ở dưới cặp nến hoặc ở dưới tất cả các vùng cản. 
+
+VD 2 : 
+
+![bitcoin](/img/bit-12.png)
+
+Có sóng giảm, phá đáy, tạo 1 vùng bán. Khi sóng đi lên gặp vùng cản.
+
+Xuất hiện 2 cặp nến EG liên tục ở vùng cản => Dấu hiệu bán vẫn tiếp diễn.
+
+![bitcoin](/img/bit-12.png)
+
+SL ở trước cặp nến hoặc trên vùng cản.
+
+## 3. Hỗ trợ, kháng cự (vùng CUNG - CẦU )
+
+## 3.1 Định nghĩa
+
+### VÙNG CUNG
+
+![bitcoin](/img/bit-14.png)
+
+- Cung cấp, bán ra : Vùng giá trong quá khứ mà phe bán chiếm ưu thế. Có thể là đỉnh hoặc đáy cũ mà giá đã phá qua
+
+### VÙNG CẦU
+
+![bitcoin](/img/bit-15.png)
+
+- Cung cấp, bán ra : Vùng giá trong quá khứ mà phe mua chiếm ưu thế. Có thể là đỉnh hoặc đáy cũ mà giá đã phá qua
+
+Vùng CUNG - CẦU sẽ tạo ra các hỗ trợ và kháng cự.
 
 ![bitcoin](/img/bit-07.png)
 
@@ -118,6 +182,86 @@ Khi GIÁ TĂNG : Vùng đỉnh trước đó là vùng KHÁNG CỰ.
 
 Khi GIÁ GIẢM : Vùng đáy trước đó là vùng HỖ TRỢ
 
+## 3.2 Một số nguyên tắc
+
+ - Chỉ tập trung vùng cản gấn nhất với giá hiện tại. Vào lệnh ở khung thời gian nào thì vẽ cản ở khung thời gian đó
+
+ ![bitcoin](/img/bit-16.png)
+
+ - Không bao giờ vào lệnh bừa bãi ở những vùng cản, phải chờ tín hiệu nến. Vì ở các vùng cản, giá có thể xuyên qua bất cứ lúc nào.
+
+
+VD 1 : 
+
+ ![bitcoin](/img/bit-17.png)
+
+Tại khung H1, trước đó có sóng tăng, phá qua các vùng cản
+
+ ![bitcoin](/img/bit-18.png)
+
+Tại khung M15, cản đã bao quanh cặp Engulfing => Nên canh mua, vì 2 lý do : 
+ - H1 giá vừa phá đỉnh đi lên
+ - M15 cũng có cấu hình tăng phá đỉnh
+
+ ![bitcoin](/img/bit-19.png)
+
+ Tại khung M5, có xu hướng tăng và có vùng tích lũy, có nến tăng phá vỡ vùng tích lũy. Có thể vào lệnh ở điểm nến vừa phá vùng tích lũy. ST ở dưới vùng tích lũy, TP ở cản trên.
+
+ ![bitcoin](/img/bit-20.png)
+
+Kết quả TP đã khớp.
+
 ## 4. Xu hướng thị trường
 
-## 5. Các chỉ báo thông dụng 
+Cấu trúc thị trường gồm 4 GIAI ĐOẠN : 
+
+ - 1. Cấu trúc tăng
+ - 2. Cấu trúc giảm
+ - 3. Đi ngang có QUY LUẬT
+ - 4. Đi ngang không có QUY LUẬT
+
+ ![bitcoin](/img/bit-21.png)
+
+### Cấu trúc tăng
+
+Hiểu đơn giản, thị trường tạo các sóng tăng.
+
+ ![bitcoin](/img/bit-23.png)
+
+ ### Cấu trúc giảm
+
+Hiểu đơn giản, thị trường tạo các sóng tăng.
+
+ ![bitcoin](/img/bit-24.png)
+
+### Đi ngang CÓ QUY LUẬT
+
+Giá đi ngang trong biên độ đều, dễ nhận thấy như trong *hình chữ nhật* hoặc *tam giác*
+
+ - Đi ngang trong hình chữ nhật
+
+ ![bitcoin](/img/bit-25.png) 
+
+ - Đi ngang trong hình tam giác
+
+ ![bitcoin](/img/bit-26.png) 
+
+### Đi ngang KHÔNG CÓ QUY LUẬT
+
+Giá đi ngang nhưng liên tục quét đỉnh quét đáy rồi quay ngược lại, trong giai đoạn này xuất hiện rất nhiều râu nến
+
+ ![bitcoin](/img/bit-27.png) 
+
+ Rất dễ bị quét SL trong TH này.
+
+ ```sh
+Chỉ tập trung vào vào lệnh ở giai đoạn có XU HƯỚNG RÕ RÀNG và SIDEWAY CÓ QUY LUẬT
+```
+
+## 5. Điểm vào lệnh
+
+- Bước 1 : Xác định vùng mua. bán tiềm năng
+
+2 vùng mua tiềm năng : 
+ - Bắt đầu 1 sóng
+ - Đỉnh cũ vừa bị phá
