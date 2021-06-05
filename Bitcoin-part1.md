@@ -1,5 +1,8 @@
 ## Phân tích kỹ thuật trong BTC 
 
+Bài viết tham khảo 2 kênh Youtube : 
+ - [Nathan Nguyễn Channel](https://www.youtube.com/user/shuchiakai9x)
+ - [Nukida Channel](https://www.youtube.com/channel/UCQEiv5KsPHyVnvhgeYa65dA)
 ## 1. PTKT - Phân tích kỹ thuật là gì
  - PTKT là dự vào sự biến động giá trong quá khứ để dự đoán xu hướng giá trong tương lai. Là 1 trong những trường phái trong việc phân tích một sản phẩm, hàng hóa (coin, cổ phiếu, vàng...)
  
